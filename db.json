@@ -237,12 +237,14 @@
         "Testing",
         "Process Improvement"
       ]
-      
+
     },
     {
       "id": "8357102946832",
       "name": "Tomi Virtanen",
       "title": "Software Engineer",
+      
+
       "salary": 5500,
       "phone": "040-5671234",
       "email": "tomi.virtanen@example.com",
