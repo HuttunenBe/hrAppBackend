@@ -4,13 +4,13 @@
       "id": "4092837465102",
       "name": "Aino Virtanen",
       "title": "HR Manager",
-      "salary": "5333",
+      "salary": "533312222as",
       "phone": "040-1234567",
       "email": "aino.virtanen@example.com",
       "animal": "Owl",
       "startDate": "2018-04-01",
-      "location": "Jyväskylä",
-      "department": "IT",
+      "location": "Jyväskylääa",
+      "department": "ITi",
       "skills": [
         "Recruiting",
         "Communication",
@@ -21,7 +21,7 @@
       "id": "6510928374659",
       "name": "Lars Johansson",
       "title": "Finance Manager",
-      "salary": "50003",
+      "salary": "50003s",
       "phone": "040-2345678",
       "email": "lars.johansson@example.com",
       "animal": "Bison",
@@ -237,14 +237,11 @@
         "Testing",
         "Process Improvement"
       ]
-
     },
     {
       "id": "8357102946832",
       "name": "Tomi Virtanen",
       "title": "Software Engineer",
-      
-
       "salary": 5500,
       "phone": "040-5671234",
       "email": "tomi.virtanen@example.com",
@@ -256,6 +253,51 @@
         "Java",
         "Python",
         "Software Development"
+      ]
+    },
+    {
+      "id": "1748347506838",
+      "name": "Hanna",
+      "title": "sdf",
+      "salary": "12011",
+      "phone": "23",
+      "email": "asd",
+      "animal": "asd",
+      "startDate": "2025-05-17",
+      "location": "asd111",
+      "department": "asdx111",
+      "skills": [
+        "asdx"
+      ]
+    },
+    {
+      "id": "1748348464730",
+      "name": "Anna",
+      "title": "sd",
+      "salary": 23,
+      "phone": "19",
+      "email": "beniittahuttunen@gmail.com",
+      "animal": "qwsd",
+      "startDate": "",
+      "location": "awseew",
+      "department": "awsd, laks",
+      "skills": [
+        "asd"
+      ]
+    },
+    {
+      "id": "1748348484329",
+      "name": "hahddha",
+      "title": "qwsed",
+      "salary": "1211",
+      "phone": "9",
+      "email": "as",
+      "animal": "as",
+      "startDate": "",
+      "location": "as11",
+      "department": "asd11",
+      "skills": [
+        "asd"
       ]
     }
   ]
