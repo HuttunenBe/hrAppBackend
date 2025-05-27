@@ -4,13 +4,13 @@
       "id": "4092837465102",
       "name": "Aino Virtanen",
       "title": "HR Manager",
-      "salary": "25001",
+      "salary": "5333",
       "phone": "040-1234567",
       "email": "aino.virtanen@example.com",
       "animal": "Owl",
       "startDate": "2018-04-01",
-      "location": "Helsinki",
-      "department": "Human Resource Management",
+      "location": "Jyväskylä",
+      "department": "IT",
       "skills": [
         "Recruiting",
         "Communication",
@@ -237,6 +237,7 @@
         "Testing",
         "Process Improvement"
       ]
+      
     },
     {
       "id": "8357102946832",
@@ -253,36 +254,6 @@
         "Java",
         "Python",
         "Software Development"
-      ]
-    },
-    {
-      "id": "1748275357212",
-      "name": "Hanna",
-      "title": "qwsed",
-      "salary": "12345621",
-      "phone": "234",
-      "email": "1234",
-      "animal": "234",
-      "startDate": "",
-      "location": "Oulussa",
-      "department": "It",
-      "skills": [
-        "123e4"
-      ]
-    },
-    {
-      "id": "1748275670235",
-      "name": "annananaa",
-      "title": "wedf",
-      "salary": "1234",
-      "phone": "23",
-      "email": "123",
-      "animal": "1234r",
-      "startDate": "",
-      "location": "12",
-      "department": "12",
-      "skills": [
-        "123"
       ]
     }
   ]
